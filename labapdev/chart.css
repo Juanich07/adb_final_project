@@ -1,0 +1,6 @@
+/* chart.css */
+canvas {
+    max-width: 50%;
+    max-height: 150px;
+    margin-top: 10px;
+}
